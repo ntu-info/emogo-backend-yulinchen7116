@@ -107,28 +107,28 @@ def export_page():
         <div class="card">
           <h2>All data</h2>
           <ul>
-            <li><a href="/export/all">All data (pretty view)</a></li>
+            <li><a href="/export/all">Download</a></li>
           </ul>
         </div>
 
         <div class="card">
           <h2>Vlogs</h2>
           <ul>
-            <li><a href="/export/vlogs">Vlogs (pretty view)</a></li>
+            <li><a href="/export/vlogs">Download</a></li>
           </ul>
         </div>
 
         <div class="card">
           <h2>Sentiments</h2>
           <ul>
-            <li><a href="/export/sentiments">Sentiments (pretty view)</a></li>
+            <li><a href="/export/sentiments">Download</a></li>
           </ul>
         </div>
 
         <div class="card">
           <h2>GPS</h2>
           <ul>
-            <li><a href="/export/gps">GPS coordinates (pretty view)</a></li>
+            <li><a href="/export/gps">Download</a></li>
           </ul>
         </div>
       </body>
