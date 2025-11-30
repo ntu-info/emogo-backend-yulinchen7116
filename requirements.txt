@@ -1,1 +1,4 @@
-fastapi[all]
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
