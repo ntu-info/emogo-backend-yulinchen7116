@@ -1,0 +1,16 @@
+{
+  "requesterUsername": "yulinchen7116",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/230486800",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": []
+}
